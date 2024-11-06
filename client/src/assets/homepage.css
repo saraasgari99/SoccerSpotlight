@@ -1,0 +1,32 @@
+.background{
+    min-height: 92vh;
+    width: 100%;
+    background-color: #000;
+    background-image: url('../images/Soccer-Ball-Hexagon-Pattern-Loader.gif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    padding: 0 5%;
+    display: grid;
+}
+
+.league-title{
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 1.2;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.league-text{
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 1.2;
+    padding-top: 20px; 
+    padding-left: 15px;
+    padding-right: 15px;
+    cursor: pointer;
+    width: 25%;
+    color: lightblue;
+}

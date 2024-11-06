@@ -1,0 +1,56 @@
+.wf-title-med {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-top: -2px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.match-header-vs {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.match-header-vs-note {
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 400;
+    color: #ffffff;
+    line-height: 1.3;
+    padding-right: 5px;
+}
+
+.match-detail-date {
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 400;
+    color: #000000;
+    line-height: 1.3;
+    padding-right: 5px;
+    padding-top: 15px;
+    display: flex;
+}
+
+.match-header-vs-score {
+    font-size: 30px;
+    font-weight: 500;
+    padding-top: 4px;
+    padding-bottom: 5px;
+    color: #555;
+}
+
+.match-header-vs-score-winner {
+    color: #76bc87;
+    color: #61b876;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.match-header-vs-score-normal {
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+
