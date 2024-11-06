@@ -1,2 +1,2 @@
 # SoccerSpotlight
-Web app analyzing &amp; visualizing large sports data
+Web app querying, analyzing &amp; visualizing large sports data
