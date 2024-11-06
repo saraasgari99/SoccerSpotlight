@@ -1,4 +1,4 @@
-
+## Description
 SoccerSpotlight is a web app for querying, analyzing, and visualizing large sports (soccer) data using HTML/CSS/JavaScript, AWS, Oracle, React, Node.js.
 
 Using this app you can learn interesting statistics about players, teams, match-ups, and world cups.
