@@ -1,0 +1,9 @@
+{
+  "rds_host": "cis550-soccer-database.cyfgcvpsyimq.us-east-1.rds.amazonaws.com",
+  "rds_port": "3306",
+  "rds_user": "admin",
+  "rds_password" : "bestgroup59",
+  "rds_db": "Soccer",
+  "server_host": "localhost",
+  "server_port":"8080"
+}
