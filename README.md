@@ -1,4 +1,6 @@
-﻿# CIS4500SoccerDatabase
+SoccerSpotlight is a web app for querying, analyzing, and visualizing large sports (soccer) data using HTML/CSS/JavaScript, AWS, Oracle, React, Node.js
+Using this app you can learn interesting statistics about players, teams, match-ups, and world cups.
+
 ## Running
 This app runs using node js and react. To run this, open two terminals (one cd into the client folder, the other cd into the server folder). Do 'npm install' on both
 terminals, and then do 'npm start'.
